@@ -1,0 +1,30 @@
+{
+    "students":[
+    {
+        "heading":"s1",
+        "content":"This is s1 student info"
+    },
+    {
+        "heading":"s2",
+        "content":"This is s2 student info"
+    },
+    {
+        "heading":"s3",
+        "content":"This is s3 student info"
+    }
+],"players":[
+    {
+        "heading":"Sachin",
+        "content":"This is Sachin from mumbai"
+    },
+    {
+        "heading":"Kohli",
+        "content":"This is Kohli from India"
+    },
+    {
+        "heading":"SKY",
+        "content":"This is SKY from Banglore"
+    }
+]
+}
+   
